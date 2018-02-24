@@ -10,6 +10,7 @@ import java.util.HashMap;
 /**
  * @Description:
  * @Author: liuxinyun
+ * @Modifier: qinwenjie
  * @Date: 2017/10/10 16:04
  */
 public class ResultData implements Serializable {
